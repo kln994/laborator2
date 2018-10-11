@@ -11,5 +11,8 @@
     "type": "git",
     "url": "https://github.com/kln994"
   },
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
 }
